@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is an academic repository for research on homelessness in Chile and Latin America"
+title: "Repository for research on homelessness"
 excerpt: "About the project"
 author_profile: true
 redirect_from: 
@@ -10,20 +10,23 @@ redirect_from:
 
 This academic repository holds great significance as a central hub for research on homelessness in Chile and Latin America. By bringing together a wide range of resources, including studies, data, and research findings, it consolidates knowledge and facilitates collaboration among academics, researchers, and policymakers. The repository's accessibility of data ensures transparency and empowers stakeholders with up-to-date and reliable information on homelessness trends, contributing factors, and potential solutions. This wealth of research not only supports evidence-based policymaking but also raises public awareness, fostering understanding and empathy for those affected by homelessness. Ultimately, this repository serves as a vital tool in advancing research, policy development, and advocacy efforts aimed at addressing and alleviating homelessness in Chile and Latin America.
 
-A data-driven personal website
+About us
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am Felipe Estay, a researcher and a member of the board at CISCAL (Center of Research and Advocacy about Homelessness - ciscal.org). I utilise my personal academic website as a platform for disseminating data and research findings related to this urgent issue. This website serves not only as a knowledge repository but also as a collaborative hub, bringing together researchers, policymakers, activists, and community members. It fosters a sense of shared responsibility in addressing homelessness. By providing a space for exchanging ideas, best practices, and innovative approaches, it encourages fruitful discussions and the development of effective strategies.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Community engagement is central to our mission. The website acts as a bridge between academia and the broader community, making research accessible and understandable to individuals from all walks of life. Our goal is to translate complex research findings into practical information, empowering individuals and organizations to actively participate in tackling homelessness. Through this personal and collective project, we strive to raise awareness, challenge stereotypes, and advocate for policy changes that prioritize affordable housing, social support, and holistic solutions. Together, we can create a society where everyone has access to safe and stable housing, ensuring that no one is left without a place to call home.
 
-Getting started
+What kind of data will you find?
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Publications about qualitative and quantitative research: The academic repository offers access to publications that encompass both qualitative and quantitative research on homelessness. These publications may consist of scholarly articles, research papers, and academic studies, providing valuable insights into different research methodologies and findings related to homelessness.
+1. Annual congress seminars and talks about homelessness in Chile, Latin America, and the US: The repository provides resources pertaining to annual congress seminars and talks specifically focused on homelessness in these regions. These materials may include conference presentations, keynote speeches, panel discussions, and other relevant content, fostering a platform for knowledge sharing and the discussion of current issues and advancements in addressing homelessness.
+1. Teaching opportunities provided by academic institutions: The repository presents information on teaching opportunities related to homelessness offered by academic institutions. This could include courses, workshops, and training materials aimed at educating students and professionals about homelessness, its causes, impacts, and potential solutions.
+1. Access to visualized data: The repository offers visualized data on homelessness, presenting information through charts, graphs, maps, and other visual representations. Visualizing data enhances understanding, facilitates comparisons, and provides a clearer overview of homelessness trends, patterns, and related factors.
+1. Press notes and blog entries: The repository includes press notes and blog entries that focus on homelessness. These resources may encompass news articles, opinion pieces, and blog posts, offering diverse perspectives, updates, and discussions on topics related to homelessness.
+1. Raw data: The repository provides access to raw data related to homelessness. This includes datasets, surveys, and other primary data sources that researchers can utilize for their own analyses, enabling further exploration and interpretation of homelessness-related trends and phenomena.
+1. Special section on homelessness death statistics: The repository features a dedicated section specifically focused on homelessness death statistics. This section presents data and analyses related to mortality rates, causes of death, and other pertinent information regarding the impact of homelessness on individuals' health and well-being.
+
+
 
 Site-wide configuration
 ------
