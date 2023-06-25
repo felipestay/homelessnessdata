@@ -34,4 +34,4 @@ We welcome and encourage you to contribute data on any of the aforementioned top
 
 For more info
 ------
-More info about CISCAL [link](https://ciscal.org). My personal website [me](https://felipestay.github.io). Feel free to contact me or other member of CISCAL.
+More info about [CISCAL](https://ciscal.org). My personal [github](https://felipestay.github.io). Feel free to contact me or other member of CISCAL.
